@@ -39,9 +39,14 @@ pip install -r requirements.txt
 python trainer.py
 ```
 
-3. Detect violence in an image using the following command:
+3. Evaluate the model using the following command:
 ```
-python detect_image.py
+python evaluator.py
+```
+
+4. Detect violence in an image using the following command:
+```
+python detect_image.p
 ```
 
 
